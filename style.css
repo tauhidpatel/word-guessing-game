@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mabry Pro';
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(242, 243, 246);
+}
+
+header img {
+    position: absolute;
+    top: 2em;
+    right: 4em;
+    height: 6vh;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin-top: auto;
+    background: #fcfcfc;
+    border-radius: .85em;
+    border: 5px solid #262626;
+}
+
+.wrapper h1 {
+    padding: .5em .5em;
+    border-bottom: 1px solid #cfcfcf;
+}
+
+.wrapper .content {
+    margin: 1em 1em 1em;
+}
+ 
+.content .typing-input {
+    opacity: 0;
+    z-index: -10;
+    position: absolute;
+}
+
+.content .inputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 1.5em;
+}
+
+.inputs input {
+    height: 60px;
+    width: 70px;
+    margin: .3em;
+    font-size: 2em;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+    border: 5px solid rgba(255, 217, 0, 0.123);
+    border-radius: .2em;
+}
+
+.inputs input:first-child {
+    margin-left: 0px;
+}
+
+.details {
+    margin: 1.5em;
+}
+
+.details p {
+    font-size: 1.2em;
+    margin-bottom: .5em;
+}
+
+.content .reset-btn {
+    width: 100%;
+    padding: 1em 0;
+    font-size: 1.3em;
+    font-weight: 700;
+    background: #FBCA1F;
+    /* background: rgb(152, 112, 231); */
+    outline: none;
+    border: 3px solid black;
+    cursor: pointer;
+    /* text-transform: uppercase; */
+    border-radius: .75em; 
+    box-shadow: 0.1em 0.1em;
+}
+
+.content .reset-btn:hover {
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em;
+}
+
+.content .reset-btn:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em;
+}
+
+footer {
+    margin-top: auto;
+    margin-bottom: 1em;
+}
