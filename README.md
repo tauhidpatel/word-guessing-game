@@ -1,6 +1,6 @@
 # Word Guessing Game
 
-![Word Guessing Game Demo](link-to-demo-gif.gif)
+[live demo](https://vocal-dodol-7e434f.netlify.app)!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +21,7 @@ Check out the live demo [here](https://vocal-dodol-7e434f.netlify.app)!
 ## Features
 - Word Guessing: Players can guess the hidden word by providing letters one by one.
 - User-friendly Interface: The game offers a simple and intuitive user interface for easy gameplay.
-- PLayres can change the question by clicking on the button
+- Players can change the question by clicking on the button 'Change the word'
 
 ## Installation
 As a web-based game, there is no installation required to play the Word Guessing Game. Simply access the live demo through the provided link [here](https://vocal-dodol-7e434f.netlify.app) and start playing!
