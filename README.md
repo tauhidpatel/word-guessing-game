@@ -1,4 +1,5 @@
 # Word Guessing Game
+![tauhid-word-guessing](https://github.com/Tauhid-Patel/word-guessing-game/assets/43630196/63d28655-dec9-4da2-825b-aab6730d16b5)
 
 [live demo](https://vocal-dodol-7e434f.netlify.app)!
 
