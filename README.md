@@ -1,8 +1,6 @@
 # Word Guessing Game
 ![tauhid-word-guessing](https://github.com/Tauhid-Patel/word-guessing-game/assets/43630196/63d28655-dec9-4da2-825b-aab6730d16b5)
 
-[live demo](https://vocal-dodol-7e434f.netlify.app)!
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
@@ -15,9 +13,7 @@
 The Word Guessing Game is an interactive web application where users can play a fun word guessing game. Built using HTML, CSS, and JavaScript, this game challenges players to guess the hidden word by providing hints.
 
 ## Demo
-![Word Guessing Game Demo](link-to-demo-gif.gif)
-
-Check out the live demo [here](https://vocal-dodol-7e434f.netlify.app)!
+[Check here to see the live demo](https://vocal-dodol-7e434f.netlify.app)!
 
 ## Features
 - Word Guessing: Players can guess the hidden word by providing letters one by one.
