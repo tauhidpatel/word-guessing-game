@@ -42,5 +42,9 @@ const wordList = [
     {
         word: "crocs",
         hint: "What kind of shoes do alligators wear?"
+    },
+    {
+        word: "caffeine",
+        hint: "What keeps programmers awake at night?"
     }
 ]
