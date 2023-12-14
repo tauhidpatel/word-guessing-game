@@ -46,5 +46,13 @@ const wordList = [
     {
         word: "caffeine",
         hint: "What keeps programmers awake at night?"
+    },
+    {
+        word: "dope",
+        hint: "An excuse for doing something crazy, as you only live..."
+    },
+    {
+        word: "YOLO",
+        hint: "Not drugs, just something incredibly cool and..."
     }
 ]
