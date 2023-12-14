@@ -48,11 +48,11 @@ const wordList = [
         hint: "What keeps programmers awake at night?"
     },
     {
-        word: "dope",
+        word: "yolo",
         hint: "An excuse for doing something crazy, as you only live..."
     },
     {
-        word: "YOLO",
+        word: "dope",
         hint: "Not drugs, just something incredibly cool and..."
     }
 ]
